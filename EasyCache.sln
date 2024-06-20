@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyCache", "EasyCache\EasyCache.csproj", "{1663D239-EE51-43D8-84A4-8F27048BAF78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyCache.Tests", "EasyCache.Tests\EasyCache.Tests.csproj", "{DFABFAED-B049-4042-B879-3AD96F9E79F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1663D239-EE51-43D8-84A4-8F27048BAF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1663D239-EE51-43D8-84A4-8F27048BAF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1663D239-EE51-43D8-84A4-8F27048BAF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1663D239-EE51-43D8-84A4-8F27048BAF78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFABFAED-B049-4042-B879-3AD96F9E79F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFABFAED-B049-4042-B879-3AD96F9E79F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFABFAED-B049-4042-B879-3AD96F9E79F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFABFAED-B049-4042-B879-3AD96F9E79F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
